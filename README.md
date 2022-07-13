@@ -14,8 +14,8 @@ pkg install git
 
 termux-setup-storage
 
-https://github.com/Mr-Devil-007/D4.git
+https://github.com/fahimahmed135/free-script-.git
 
-cd D4
+cd D5
 
-python d009.py
+python hinu.py
